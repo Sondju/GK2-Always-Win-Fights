@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="AlwaysWinFights\AlwaysWinFights.csproj" />
+  <Project Path="AlwaysWinFightsFramework\AlwaysWinFightsFramework.csproj">
+    <BuildDependency Project="AlwaysWinFights\AlwaysWinFights.csproj" />
+  </Project>
+</Solution>
